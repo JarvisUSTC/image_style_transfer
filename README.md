@@ -3,5 +3,5 @@
 code 借鉴了keras/example中的部分例子
 
 ![content1](https://github.com/JarvisUSTC/image_style_transfer/blob/master/result/content1.jpg)
-![style1](https://github.com/JarvisUSTC/image_style_transfer/blob/master/result/style1.png)
+![style1](https://github.com/JarvisUSTC/image_style_transfer/blob/master/result/style.jpg)
 ![result1](https://github.com/JarvisUSTC/image_style_transfer/blob/master/result/result.png)
